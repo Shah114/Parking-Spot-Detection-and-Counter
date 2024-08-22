@@ -15,3 +15,10 @@ This project is a Parking Spot Detection and Counter inspired by the Computer Vi
 * License <br/>
 <br/>
 
+## Features
+* Detects parking spots in video or image feed
+* Counts available and occupied spots
+* Simple and modular code structure
+* Sample videos and images for demonstration <br/>
+<br/>
+
