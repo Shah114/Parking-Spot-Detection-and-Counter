@@ -58,7 +58,8 @@ The sample.zip file includes several videos and images that can be used to visua
 <br/>
 
 ## Acknowledgements
-This project inspired by the Computer Vision Engineer YouTube channel. If you want to watch, you can follow these links:
+This project inspired by the Computer Vision Engineer YouTube channel https://img.shields.io/badge/YouTube-Link?link=https%3A%2F%2Fyoutube.com%2F%40computervisionengineer%3Fsi%3DjSwsOhUDlM9Gz7JZ
+. If you want to watch, you can follow these links:
 * https://youtu.be/F-884J2mnOY?si=TDsV4kCMv1waAYQ7
 * https://youtu.be/il8dMDlXrIE?si=Ai_Kdbc1twudUJIK <br/>
 <br/>
