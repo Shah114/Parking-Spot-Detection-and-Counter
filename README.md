@@ -36,4 +36,16 @@ This project is a Parking Spot Detection and Counter inspired by the Computer Vi
    ```bash
    unzip sample.zip
    ```
+<br/>
+
+## Usage
+1. Run the project:
+   ```bash
+   python main.py
+   ```
+2. The main.py script will process the videos/images and display the results with detected parking spots.
+3. Make sure that you add correct path for videos, images and model <br/>
+<br/>
+
+
 
