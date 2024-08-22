@@ -25,7 +25,7 @@ This project is a Parking Spot Detection and Counter inspired by the Computer Vi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/parking-spot-detection.git
+   git clone https://github.com/Shah114/parking-spot-detection.git
     cd parking-spot-detection
    ```
 2. Install the required packages:
@@ -47,5 +47,10 @@ This project is a Parking Spot Detection and Counter inspired by the Computer Vi
 3. Make sure that you add correct path for videos, images and model <br/>
 <br/>
 
+## Files
+* main.py - Contains the main code for running the detection and counting.
+* util.py - Utility functions for simplifying tasks like image processing.
+* sample.zip - Contains sample videos and images for testing and visualizing the model. <br/>
+<br/>
 
 
