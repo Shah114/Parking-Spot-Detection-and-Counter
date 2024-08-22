@@ -22,3 +22,18 @@ This project is a Parking Spot Detection and Counter inspired by the Computer Vi
 * Sample videos and images for demonstration <br/>
 <br/>
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/parking-spot-detection.git
+    cd parking-spot-detection
+   ```
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Extract the sample data:
+   ```bash
+   unzip sample.zip
+   ```
+
