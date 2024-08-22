@@ -53,4 +53,7 @@ This project is a Parking Spot Detection and Counter inspired by the Computer Vi
 * sample.zip - Contains sample videos and images for testing and visualizing the model. <br/>
 <br/>
 
+## Sample Data
+The sample.zip file includes several videos and images that can be used to visualize how the model detects and counts parking spots. These can be found in the samples/ directory after extraction. <br/>
 
+## Contributing
