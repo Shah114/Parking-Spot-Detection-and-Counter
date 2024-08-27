@@ -55,14 +55,6 @@ This project is a Parking Spot Detection and Counter inspired by the Computer Vi
 
 ## Sample Data
 The sample.zip file includes several videos and images that can be used to visualize how the model detects and counts parking spots. These can be found in the samples/ directory after extraction. <br/>
-<br/>
-
-## Acknowledgements
-This project inspired by the Computer Vision Engineer YouTube channel. If you want to watch, you can follow these links: <br/>
-![Static Badge](https://img.shields.io/badge/YouTube-Link?link=https%3A%2F%2Fyoutube.com%2F%40computervisionengineer%3Fsi%3DjSwsOhUDlM9Gz7JZ) <br/>
-* https://youtu.be/F-884J2mnOY?si=TDsV4kCMv1waAYQ7
-* https://youtu.be/il8dMDlXrIE?si=Ai_Kdbc1twudUJIK <br/>
-<br/>
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change. 
